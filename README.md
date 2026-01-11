@@ -1,1 +1,2 @@
 # Airline-Python-Project
+This project analyzes airline passenger data to predict whether customers are satisfied or dissatisfied with their travel experience. The dataset is preprocessed and explored to identify key drivers of satisfaction such as seat comfort, inflight service, cleanliness, and delays. Machine learning classification models are built and evaluated to classify passenger satisfaction levels.
